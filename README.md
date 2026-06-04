@@ -39,3 +39,27 @@ Today I learned the basics of the Linux filesystem and practiced essential Linux
 - Learn Linux permissions in depth
 - Explore shell scripting
 - Install and start using Docker
+
+
+## Docker Basics - June 4, 2026
+
+### Commands Practiced
+
+- docker images
+- docker ps
+- docker ps -a
+- docker run hello-world
+
+### What I Learned
+
+- Docker images are templates used to create containers.
+- Containers are running instances of images.
+- Successfully ran the hello-world container.
+- Used docker ps -a to view container history.
+
+### Key Takeaways
+
+- Docker images act as blueprints.
+- Containers are created from images.
+- Containers can stop after completing their task.
+- Docker makes applications portable across environments.
